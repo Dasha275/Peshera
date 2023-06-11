@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\MyWork\UNITY\Unity projects\4f" t="IncludeRecursive">
+      <e p="4f.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Hovl Studio" t="Include">
+          <e p="AAA Magic circles Vol 3" t="Include">
+            <e p="Demo scene" t="Include">
+              <e p="CameraHolder.cs" t="Include" />
+              <e p="HDRP and URP(LWRP).txt" t="Include" />
+              <e p="readme.txt" t="Include" />
+            </e>
+            <e p="Materials" t="Include" />
+            <e p="Models" t="Include" />
+            <e p="Prefabs" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="Add_CenterGlow.shader" t="Include" />
+              <e p="Add_Fresnel.shader" t="Include" />
+              <e p="Blend_CenterGlow.shader" t="Include" />
+              <e p="Blend_TwoSides.shader" t="Include" />
+              <e p="DissolveNoise.shader" t="Include" />
+              <e p="Electricity.shader" t="Include" />
+              <e p="Ice.shader" t="Include" />
+              <e p="WaterOrb.shader" t="Include" />
+            </e>
+            <e p="Textures" t="Include" />
+          </e>
+        </e>
+        <e p="Invector-3rdPersonController" t="Include">
+          <e p="Basic Locomotion" t="Include">
+            <e p="3D Models" t="Include">
+              <e p="Animations" t="Include">
+                <e p="Other" t="Include" />
+              </e>
+              <e p="Characters" t="Include">
+                <e p="Invector@V-Bot" t="Include">
+                  <e p="FBX" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="Materials" t="Include" />
+                  <e p="Materials@custom" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+                <e p="Invector@V-Bot 2.0" t="Include">
+                  <e p="FBX" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="Material" t="Include">
+                    <e p="BlueSkin" t="Include" />
+                    <e p="Custom" t="Include" />
+                    <e p="GreenSkin" t="Include" />
+                    <e p="RedSkin" t="Include" />
+                  </e>
+                  <e p="Prefab" t="Include" />
+                  <e p="Textures" t="Include">
+                    <e p="Custom" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Others" t="Include">
+                <e p="HealthItem" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="vAnimateUV.cs" t="Include" />
+                </e>
+                <e p="Materials" t="Include" />
+                <e p="NewAssets" t="Include" />
+                <e p="OldAssets" t="Include" />
+              </e>
+              <e p="Particles" t="Include">
+                <e p="DamageEffect" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="Prefabs" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+              </e>
+              <e p="Textures" t="Include">
+                <e p="basicTextures" t="Include">
+                  <e p="Materials" t="Include" />
+                </e>
+                <e p="prototype_textures" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+              </e>
+              <e p="VirtualShield" t="Include">
+                <e p="Material" t="Include" />
+                <e p="Texture" t="Include" />
+              </e>
+              <e p="vOctagon" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+            </e>
+            <e p="Animator" t="Include">
+              <e p="AvatarMasks" t="Include" />
+            </e>
+            <e p="Audio" t="Include">
+              <e p="FootSteps" t="Include">
+                <e p="Asphalt" t="Include" />
+                <e p="Grass" t="Include" />
+                <e p="Gravel" t="Include" />
+                <e p="Metal" t="Include" />
+              </e>
+              <e p="Mixers" t="Include" />
+              <e p="Others" t="Include" />
+              <e p="RagdollCollision" t="Include" />
+            </e>
+            <e p="DemoScenes" t="Include">
+              <e p="Invector_BasicLocomotion_Profiles" t="Include" />
+            </e>
+            <e p="HUD" t="Include">
+              <e p="_fonts" t="Include" />
+              <e p="gamePadIcons" t="Include" />
+              <e p="guide-texts" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+              <e p="keyboardIcons" t="Include" />
+              <e p="mobile" t="Include" />
+              <e p="Other" t="Include" />
+              <e p="Resources" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Environment" t="Include" />
+              <e p="Others" t="Include" />
+            </e>
+            <e p="README_Basic.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Camera" t="Include">
+                <e p="CullingFadeControl" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vCullingFadeControlEditor.cs" t="Include" />
+                  </e>
+                  <e p="vCullingFadeControl.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="vScriptableObjectUtility.cs" t="Include" />
+                  <e p="vThirdPersonCameraEditor.cs" t="Include" />
+                </e>
+                <e p="vThirdPersonCamera.cs" t="Include" />
+                <e p="vThirdPersonCameraExtensions.cs" t="Include" />
+                <e p="vThirdPersonCameraListData.cs" t="Include" />
+                <e p="vThirdPersonCameraState.cs" t="Include" />
+              </e>
+              <e p="CharacterController" t="Include">
+                <e p="Actions" t="Include">
+                  <e p="Prefabs" t="Include" />
+                  <e p="vActionListener.cs" t="Include" />
+                  <e p="vGenericAction.cs" t="Include" />
+                  <e p="vGenericAnimation.cs" t="Include" />
+                  <e p="vLadderAction.cs" t="Include" />
+                  <e p="vTriggerGenericAction.cs" t="Include" />
+                  <e p="vTriggerLadderAction.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="Resources" t="Include">
+                    <e p="vEditorStartupPrefs.cs" t="Include" />
+                  </e>
+                  <e p="vGameControllerEditor.cs" t="Include" />
+                  <e p="vGenericInputDrawer.cs" t="Include" />
+                  <e p="vInvectorStartup.cs" t="Include" />
+                  <e p="vInvectorWelcomeWindow.cs" t="Include" />
+                  <e p="vThirdPersonControllerEditor.cs" t="Include" />
+                </e>
+                <e p="vAnimatorParameter.cs" t="Include" />
+                <e p="vAnimatorStateInfo.cs" t="Include" />
+                <e p="vCharacter.cs" t="Include" />
+                <e p="vGameController.cs" t="Include" />
+                <e p="vHUDController.cs" t="Include" />
+                <e p="vICharacter.cs" t="Include" />
+                <e p="vInput.cs" t="Include" />
+                <e p="vMoveSetSpeed.cs" t="Include" />
+                <e p="vOnDeadTrigger.cs" t="Include" />
+                <e p="vThirdPersonAnimator.cs" t="Include" />
+                <e p="vThirdPersonController.cs" t="Include" />
+                <e p="vThirdPersonInput.cs" t="Include" />
+                <e p="vThirdPersonMotor.cs" t="Include" />
+              </e>
+              <e p="CharacterCreator" t="Include">
+                <e p="CameraStates" t="Include" />
+                <e p="Icon" t="Include" />
+                <e p="Script" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBasicMenuComponent.cs" t="Include" />
+                    <e p="vCreateBasicCharacterEditor.cs" t="Include" />
+                    <e p="vHelperEditor.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="FootStep" t="Include">
+                <e p="AudioSource" t="Include" />
+                <e p="AudioSurfaces" t="Include" />
+                <e p="Editor" t="Include">
+                  <e p="vAudioSurfaceEditor.cs" t="Include" />
+                  <e p="vFootStepEditor.cs" t="Include" />
+                </e>
+                <e p="Materials" t="Include" />
+                <e p="Particles" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="vAudioSurface.cs" t="Include" />
+                  <e p="vAudioSurfaceControl.cs" t="Include" />
+                  <e p="vFisherYatesRandom.cs" t="Include" />
+                  <e p="vFootPlantingPlayer.cs" t="Include" />
+                  <e p="vFootStep.cs" t="Include" />
+                  <e p="vFootStepHandler.cs" t="Include" />
+                  <e p="vFootStepTrigger.cs" t="Include" />
+                </e>
+                <e p="Textures" t="Include" />
+              </e>
+              <e p="Generic" t="Include">
+                <e p="Animator" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vAnimatorEventEditor.cs" t="Include" />
+                    <e p="vAnimatorTagAdvancedEditor.cs" t="Include" />
+                    <e p="vAnimatorTagEditor.cs" t="Include" />
+                  </e>
+                  <e p="vAnimatorEvent.cs" t="Include" />
+                  <e p="vAnimatorEventReceiver.cs" t="Include" />
+                  <e p="vAnimatorResetTrigger.cs" t="Include" />
+                  <e p="vAnimatorSetBool.cs" t="Include" />
+                  <e p="vAnimatorSetFloat.cs" t="Include" />
+                  <e p="vAnimatorSetInt.cs" t="Include" />
+                  <e p="vAnimatorSetTrigger.cs" t="Include" />
+                  <e p="vAnimatorSetValue.cs" t="Include" />
+                  <e p="vAnimatorTag.cs" t="Include" />
+                  <e p="vAnimatorTagAdvanced.cs" t="Include" />
+                  <e p="vAnimatorTagBase.cs" t="Include" />
+                  <e p="vTriggerSoundByState.cs" t="Include" />
+                </e>
+                <e p="Attributes" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBarDisplayAttributeDrawer.cs" t="Include" />
+                    <e p="vButtonDrawer.cs" t="Include" />
+                    <e p="vHelpBoxDecorator.cs" t="Include" />
+                    <e p="vHideInInspectorDrawer.cs" t="Include" />
+                    <e p="vMinMaxAttributeDrawer.cs" t="Include" />
+                    <e p="vReadOnlyAttributeDrawer.cs" t="Include" />
+                    <e p="vTagMaskDrawer.cs" t="Include" />
+                    <e p="vToggleOptionAttributeDrawer.cs" t="Include" />
+                  </e>
+                  <e p="vBarDisplayAttribute.cs" t="Include" />
+                  <e p="vButtonAttribute.cs" t="Include" />
+                  <e p="vClassHeaderAttribute.cs" t="Include" />
+                  <e p="vEditorToolbarAttribute.cs" t="Include" />
+                  <e p="vHelpBoxAttribute.cs" t="Include" />
+                  <e p="vHideInInspectorAttribute.cs" t="Include" />
+                  <e p="vMinMaxAttribute.cs" t="Include" />
+                  <e p="vReadOnlyAttribute.cs" t="Include" />
+                  <e p="vToggleOptionAttribute.cs" t="Include" />
+                </e>
+                <e p="BodySnapSystem" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="Resources" t="Include">
+                        <e p="Materials" t="Include" />
+                      </e>
+                      <e p="vBodySnappingControlEditor.cs" t="Include" />
+                      <e p="vBodyStructEditor.cs" t="Include" />
+                    </e>
+                    <e p="vBodySnappingControl.cs" t="Include" />
+                    <e p="vBodyStruct.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="InvectorDefineSymbolsManager.cs" t="Include" />
+                  <e p="vBasicControllerDefineSymbols.cs" t="Include" />
+                  <e p="vEditorHelper.cs" t="Include" />
+                  <e p="vInvectorIcon.cs" t="Include" />
+                </e>
+                <e p="Health" t="Include">
+                  <e p="v_SpriteHealth.cs" t="Include" />
+                  <e p="vHealthController.cs" t="Include" />
+                  <e p="vHealthItem.cs" t="Include" />
+                  <e p="vIDamageReceiver.cs" t="Include" />
+                  <e p="vIHealthController.cs" t="Include" />
+                </e>
+                <e p="Interactables" t="Include">
+                  <e p="vPendulum.cs" t="Include" />
+                  <e p="vPickupItem.cs" t="Include" />
+                  <e p="vPlatform.cs" t="Include" />
+                  <e p="vPunchingBag.cs" t="Include" />
+                  <e p="vSimpleDoor.cs" t="Include" />
+                </e>
+                <e p="Triggers" t="Include">
+                  <e p="vChangeCameraAngleTrigger.cs" t="Include" />
+                  <e p="vChangeInputTypeTrigger.cs" t="Include" />
+                  <e p="vDestroyOnTrigger.cs" t="Include" />
+                  <e p="vFindSpawnPoint.cs" t="Include" />
+                  <e p="vJumpMultiplierTrigger.cs" t="Include" />
+                  <e p="vLoadLevel.cs" t="Include" />
+                  <e p="vSimpleTrigger.cs" t="Include" />
+                  <e p="vTriggerChangeCameraState.cs" t="Include" />
+                  <e p="vTutorialTextTrigger.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBasicUtilsMenu.cs" t="Include" />
+                    <e p="vCommentEditor.cs" t="Include" />
+                  </e>
+                  <e p="vCharacterExtensions.cs" t="Include" />
+                  <e p="vComment.cs" t="Include" />
+                  <e p="vDestroyChildrens.cs" t="Include" />
+                  <e p="vDestroyGameObject.cs" t="Include" />
+                  <e p="vEventWithDelay.cs" t="Include" />
+                  <e p="vExtensions.cs" t="Include" />
+                  <e p="vFrameLimiter.cs" t="Include" />
+                  <e p="vHitDamageParticle.cs" t="Include" />
+                  <e p="vImageColorChange.cs" t="Include" />
+                  <e p="vInstantiate.cs" t="Include" />
+                  <e p="vLookAtCamera.cs" t="Include" />
+                  <e p="vMessageReceiver.cs" t="Include" />
+                  <e p="vMessageSender.cs" t="Include" />
+                  <e p="vMonoBehaviour.cs" t="Include" />
+                  <e p="vMousePositionHandler.cs" t="Include" />
+                  <e p="vObjectContainer.cs" t="Include" />
+                  <e p="vPlayRandomClip.cs" t="Include" />
+                  <e p="vRemoveParent.cs" t="Include" />
+                  <e p="vResetTransform.cs" t="Include" />
+                  <e p="vRotateObject.cs" t="Include" />
+                  <e p="vScaleControl.cs" t="Include" />
+                  <e p="vSetParent.cs" t="Include" />
+                  <e p="vSetTransform.cs" t="Include" />
+                  <e p="vSkyboxFade.cs" t="Include" />
+                  <e p="vSliderSizeControl.cs" t="Include" />
+                  <e p="vTagMask.cs" t="Include" />
+                  <e p="vTargetLookAt.cs" t="Include" />
+                  <e p="vUpdateUIPosition.cs" t="Include" />
+                </e>
+              </e>
+              <e p="HeadTrack" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vLookTargetEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="vHeadTrack.cs" t="Include" />
+                  <e p="vHeadTrackSensor.cs" t="Include" />
+                  <e p="vLookTarget.cs" t="Include" />
+                </e>
+              </e>
+              <e p="ObjectDamage" t="Include">
+                <e p="Material" t="Include" />
+                <e p="Prefab" t="Include" />
+                <e p="Texture" t="Include" />
+                <e p="vDamage.cs" t="Include" />
+                <e p="vObjectDamage.cs" t="Include" />
+                <e p="vSpike" t="Include">
+                  <e p="vSpike.cs" t="Include" />
+                  <e p="vSpikeControl.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Ragdoll" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vRagdollBuilder.cs" t="Include" />
+                </e>
+                <e p="vDamageReceiver.cs" t="Include" />
+                <e p="vIRagdollListener.cs" t="Include" />
+                <e p="vRagdoll.cs" t="Include" />
+                <e p="vRagdollCollision.cs" t="Include" />
+                <e p="vRagdollGenericTemplate.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="ItemManager" t="Include">
+            <e p="3D Models" t="Include">
+              <e p="Animation" t="Include" />
+              <e p="Materials" t="Include">
+                <e p="UIOnTopShader.shader" t="Include" />
+              </e>
+              <e p="Texture" t="Include" />
+            </e>
+            <e p="Audio" t="Include" />
+            <e p="Icons" t="Include">
+              <e p="Materials" t="Include" />
+              <e p="Melee" t="Include">
+                <e p="Materials" t="Include" />
+              </e>
+              <e p="Shooter" t="Include" />
+            </e>
+            <e p="ItemListData" t="Include" />
+            <e p="Prefabs" t="Include">
+              <e p="Other" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="vCreateInventoryEditor.cs" t="Include" />
+                <e p="vHandlerDrawer.cs" t="Include" />
+                <e p="vItemCollectionEditor.cs" t="Include" />
+                <e p="vItemEditor.cs" t="Include" />
+                <e p="vItemEnumsWindow.cs" t="Include" />
+                <e p="vItemListDataEditor.cs" t="Include" />
+                <e p="vItemListWindow.cs" t="Include" />
+                <e p="vItemManagerEditor.cs" t="Include" />
+                <e p="vItemManagerUtilities.cs" t="Include" />
+              </e>
+              <e p="Examples" t="Include">
+                <e p="UseItemEventTrigger.cs" t="Include" />
+                <e p="vAddItemByID.cs" t="Include" />
+                <e p="vCheckCanAddHealth.cs" t="Include" />
+                <e p="vCheckItemIsEquipped.cs" t="Include" />
+                <e p="vContainsItemTrigger.cs" t="Include" />
+                <e p="vRemoveCurrentItem.cs" t="Include" />
+                <e p="vRemoveItem.cs" t="Include" />
+              </e>
+              <e p="vAutoScrollVertical.cs" t="Include" />
+              <e p="vControlAreaByInput.cs" t="Include" />
+              <e p="vDrawHideMeleeWeapons.cs" t="Include" />
+              <e p="vEquipArea.cs" t="Include" />
+              <e p="vEquipAreaControl.cs" t="Include" />
+              <e p="vEquipmentDisplay.cs" t="Include" />
+              <e p="vEquipProperties.cs" t="Include" />
+              <e p="vEquipSlot.cs" t="Include" />
+              <e p="vGridLayoutExpand.cs" t="Include" />
+              <e p="vHandler.cs" t="Include" />
+              <e p="vIEquipment.cs" t="Include" />
+              <e p="vInventory.cs" t="Include" />
+              <e p="vInventoryWindow.cs" t="Include" />
+              <e p="vItem.cs" t="Include" />
+              <e p="vItemAmountWindow.cs" t="Include" />
+              <e p="vItemAttribute.cs" t="Include" />
+              <e p="vItemAttributes.cs" t="Include" />
+              <e p="vItemAttributesManager.cs" t="Include" />
+              <e p="vItemCollection.cs" t="Include" />
+              <e p="vItemCollectionDisplay.cs" t="Include" />
+              <e p="vItemCollectionTextHUD.cs" t="Include" />
+              <e p="vItemEnumsBuilder" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vItemEnumsBuilder.cs" t="Include" />
+                  <e p="vItemEnumsListEditor.cs" t="Include" />
+                </e>
+                <e p="Resources" t="Include" />
+                <e p="vItemEnums.cs" t="Include" />
+                <e p="vItemEnumsList.cs" t="Include" />
+              </e>
+              <e p="vItemFilter.cs" t="Include" />
+              <e p="vItemListData.cs" t="Include" />
+              <e p="vItemListOperations.cs" t="Include" />
+              <e p="vItemManager.cs" t="Include" />
+              <e p="vItemManagerEvents.cs" t="Include" />
+              <e p="vItemOptionWindow.cs" t="Include" />
+              <e p="vItemSlot.cs" t="Include" />
+              <e p="vItemWindow.cs" t="Include" />
+              <e p="vItemWindowDisplay.cs" t="Include" />
+              <e p="vLeaveDropItemExample.cs" t="Include" />
+              <e p="vOpenCloseInventoryTrigger.cs" t="Include" />
+              <e p="vSetFirstSelectable.cs" t="Include" />
+              <e p="vWeaponHolder.cs" t="Include" />
+              <e p="vWeaponHolderManager.cs" t="Include" />
+              <e p="vWindowPop_up.cs" t="Include" />
+            </e>
+            <e p="Textures" t="Include" />
+          </e>
+          <e p="Melee Combat" t="Include">
+            <e p="3DModels" t="Include">
+              <e p="Animations" t="Include" />
+              <e p="Other" t="Include">
+                <e p="SceneElements" t="Include" />
+                <e p="Vases" t="Include">
+                  <e p="FBX" t="Include" />
+                  <e p="Materials" t="Include" />
+                  <e p="Prefab" t="Include" />
+                  <e p="Script" t="Include">
+                    <e p="vBreakableObject.cs" t="Include" />
+                    <e p="vDestroyOnSleep.cs" t="Include" />
+                  </e>
+                  <e p="Sounds" t="Include" />
+                </e>
+                <e p="Wires" t="Include">
+                  <e p="Materials" t="Include">
+                    <e p="Buildings" t="Include" />
+                  </e>
+                  <e p="Meshes" t="Include">
+                    <e p="Assets" t="Include" />
+                  </e>
+                  <e p="Prefabs" t="Include">
+                    <e p="dynamic_assets" t="Include" />
+                  </e>
+                  <e p="Shaders" t="Include">
+                    <e p="alpha_2sided.shader" t="Include" />
+                  </e>
+                  <e p="Textures" t="Include">
+                    <e p="Buildings" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Textures" t="Include">
+                <e p="vTexture" t="Include" />
+              </e>
+              <e p="vMeleeWeapons" t="Include">
+                <e p="vAxe" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="vAxe.fbm" t="Include" />
+                </e>
+                <e p="vKatana" t="Include">
+                  <e p="FBX" t="Include" />
+                  <e p="Materials" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+                <e p="vShield" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="vShield.fbm" t="Include" />
+                </e>
+                <e p="vSword" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="SwordV.fbm" t="Include" />
+                  <e p="SwordV_long.fbm" t="Include" />
+                  <e p="SwordV_short.fbm" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Animator" t="Include" />
+            <e p="Audio" t="Include" />
+            <e p="DemoScenes" t="Include">
+              <e p="MeleeCombat_Demo" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Enemies" t="Include" />
+              <e p="Environment" t="Include" />
+              <e p="Items" t="Include" />
+              <e p="Player" t="Include" />
+              <e p="UI" t="Include" />
+              <e p="Weapons" t="Include">
+                <e p="NoInventory" t="Include" />
+              </e>
+            </e>
+            <e p="README_Melee.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="Materials" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CharacterAI" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="v_AIEditor.cs" t="Include" />
+                  <e p="vAIWeaponsControlEditor.cs" t="Include" />
+                  <e p="vCreateNPCEditor.cs" t="Include" />
+                </e>
+                <e p="v_AIAnimator.cs" t="Include" />
+                <e p="v_AICompanion.cs" t="Include" />
+                <e p="v_AIController.cs" t="Include" />
+                <e p="v_AIMotor.cs" t="Include" />
+                <e p="v_AISphereSensor.cs" t="Include" />
+                <e p="v_AIWeaponsControl.cs" t="Include" />
+              </e>
+              <e p="CharacterController" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vCreateMeleeCharacterEditor.cs" t="Include" />
+                  <e p="vMeleeMenuComponent.cs" t="Include" />
+                </e>
+                <e p="vMeleeCombatInput.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="MeleeDefineSymbols.cs" t="Include" />
+              </e>
+              <e p="LockOn" t="Include">
+                <e p="Prefabs" t="Include" />
+                <e p="Textures" t="Include" />
+                <e p="vLockOn.cs" t="Include" />
+                <e p="vLockOnBehaviour.cs" t="Include" />
+              </e>
+              <e p="MeleeWeapon" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vCreateMeleeWeaponEditor.cs" t="Include" />
+                  <e p="vDamageDrawer.cs" t="Include" />
+                  <e p="vEnumFlagDrawer.cs" t="Include" />
+                  <e p="vMeleeAttackControlEditor.cs" t="Include" />
+                  <e p="vMeleeManagerEditor.cs" t="Include" />
+                </e>
+                <e p="vCollectableStandalone.cs" t="Include" />
+                <e p="vCollectMeleeControl.cs" t="Include" />
+                <e p="vControlDisplayWeaponStandalone.cs" t="Include" />
+                <e p="vDisplayWeaponStandalone.cs" t="Include" />
+                <e p="vEnumFlagAttribute.cs" t="Include" />
+                <e p="vHitBox.cs" t="Include" />
+                <e p="vHitEffects.cs" t="Include" />
+                <e p="vIAttackListener.cs" t="Include" />
+                <e p="vIAttackReceiver.cs" t="Include" />
+                <e p="vIMeleeFighter.cs" t="Include" />
+                <e p="vMeleeAttackControl.cs" t="Include" />
+                <e p="vMeleeAttackObject.cs" t="Include" />
+                <e p="vMeleeEquipment.cs" t="Include" />
+                <e p="vMeleeManager.cs" t="Include" />
+                <e p="vMeleeWeapon.cs" t="Include" />
+                <e p="vRandomAttackBehaviour.cs" t="Include" />
+                <e p="vWeaponConstrain.cs" t="Include" />
+              </e>
+              <e p="WaypointSystem" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vWaypointAreaEditor.cs" t="Include" />
+                </e>
+                <e p="vPoint.cs" t="Include" />
+                <e p="vWaypoint.cs" t="Include" />
+                <e p="vWaypointArea.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Shooter" t="Include">
+            <e p="3DModels" t="Include">
+              <e p="Animations" t="Include" />
+              <e p="Particles" t="Include">
+                <e p="Materials" t="Include" />
+                <e p="Textures" t="Include" />
+              </e>
+              <e p="Props" t="Include">
+                <e p="bullets" t="Include">
+                  <e p="FBX" t="Include" />
+                  <e p="Materials" t="Include" />
+                </e>
+                <e p="cardboard" t="Include">
+                  <e p="Textures" t="Include">
+                    <e p="_Materials" t="Include" />
+                    <e p="cardboard" t="Include" />
+                    <e p="metal_A" t="Include" />
+                  </e>
+                </e>
+                <e p="Materials" t="Include" />
+                <e p="targetPractice" t="Include">
+                  <e p="Materials" t="Include" />
+                </e>
+                <e p="vBarrel" t="Include">
+                  <e p="3DModel" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="Texture" t="Include" />
+                </e>
+              </e>
+              <e p="Textures" t="Include">
+                <e p="UITextures" t="Include" />
+                <e p="VbotBlackShooterEdition" t="Include">
+                  <e p="BlackShooterEdition" t="Include" />
+                </e>
+              </e>
+              <e p="Weapons" t="Include">
+                <e p="Animation" t="Include" />
+                <e p="vRifle" t="Include">
+                  <e p="Animations" t="Include" />
+                  <e p="FBX" t="Include" />
+                  <e p="Materials" t="Include">
+                    <e p="vEmissionWithMask.shader" t="Include" />
+                  </e>
+                  <e p="Prefabs" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="vBotRifleAnimationControl.cs" t="Include" />
+                    <e p="vPowerChargeProjectileControl.cs" t="Include" />
+                  </e>
+                  <e p="Textures" t="Include" />
+                </e>
+                <e p="vWeaponsNew" t="Include">
+                  <e p="Material" t="Include" />
+                  <e p="mesh" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="Prefabs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Animator" t="Include" />
+            <e p="Audio" t="Include">
+              <e p="Weapons" t="Include" />
+            </e>
+            <e p="DemoScenes" t="Include">
+              <e p="vShooterMelee_DemoScene" t="Include" />
+              <e p="vShooterMelee_NOInventory-Example" t="Include" />
+              <e p="vShooterOnly_WITHInventory" t="Include" />
+            </e>
+            <e p="Prefabs" t="Include">
+              <e p="Other" t="Include" />
+              <e p="Particles" t="Include">
+                <e p="Explosion" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="Textures" t="Include" />
+                </e>
+              </e>
+              <e p="Player" t="Include" />
+              <e p="UI" t="Include" />
+              <e p="Weapon" t="Include">
+                <e p="_bullets" t="Include" />
+                <e p="_weapons_WITH_Inventory" t="Include">
+                  <e p="_ammo" t="Include" />
+                  <e p="_collectables" t="Include" />
+                  <e p="_weaponsPrefabs" t="Include" />
+                </e>
+                <e p="_weapons_WITHOUT_Inventory" t="Include">
+                  <e p="_ammo" t="Include" />
+                  <e p="_weaponsPrefabs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="README_Shooter.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="AlphaMask.shader" t="Include" />
+              <e p="Vbot2.0_IKAdjusts" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="ArcherySystem" t="Include">
+                <e p="Animations" t="Include">
+                  <e p="Materials" t="Include" />
+                  <e p="V-bot@Bow.fbm" t="Include" />
+                </e>
+                <e p="Models" t="Include">
+                  <e p="Bow" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                </e>
+                <e p="Prefabs" t="Include">
+                  <e p="NoInventory" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="vArrow.cs" t="Include" />
+                  <e p="vBowControl.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DecalManager" t="Include">
+                <e p="BulletEffect" t="Include">
+                  <e p="Resources" t="Include">
+                    <e p="Materials" t="Include" />
+                    <e p="Prefabs" t="Include" />
+                    <e p="Textures" t="Include" />
+                  </e>
+                </e>
+                <e p="Decals" t="Include" />
+                <e p="Materials" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="vDecalManager.cs" t="Include" />
+                </e>
+                <e p="Textures" t="Include">
+                  <e p="Brick" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="cement" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="Glass" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                  <e p="wood_A" t="Include">
+                    <e p="Materials" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Editor" t="Include">
+                <e p="ShooterDefineSymbols.cs" t="Include" />
+              </e>
+              <e p="Generic" t="Include">
+                <e p="vAimCanvas.cs" t="Include" />
+                <e p="vBarrel.cs" t="Include" />
+                <e p="vControlAimCanvas.cs" t="Include" />
+                <e p="vExplosive.cs" t="Include" />
+              </e>
+              <e p="Shooter" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vAmmoListDataEditor.cs" t="Include" />
+                  <e p="vCreateShooterCharacterEditor.cs" t="Include" />
+                  <e p="vItemManagerUtilities_Shooter.cs" t="Include" />
+                  <e p="vShooterIKAdjustWindow.cs" t="Include" />
+                  <e p="vShooterManagerEditor.cs" t="Include" />
+                  <e p="vShooterMenuComponent.cs" t="Include" />
+                </e>
+                <e p="vAmmoListData.cs" t="Include" />
+                <e p="vAmmoManager.cs" t="Include" />
+                <e p="vDamageReceiver.cs" t="Include" />
+                <e p="vLockOnShooter.cs" t="Include" />
+                <e p="vShooterManager.cs" t="Include" />
+                <e p="vShooterMeleeInput.cs" t="Include" />
+              </e>
+              <e p="SimpleIK" t="Include">
+                <e p="vIKSolver.cs" t="Include" />
+                <e p="vIShooterIKController.cs" t="Include" />
+                <e p="vWeaponIKAdjust.cs" t="Include" />
+                <e p="vWeaponIKAdjustHelper.cs" t="Include" />
+                <e p="vWeaponIKAdjustList.cs" t="Include" />
+              </e>
+              <e p="ThrowSystem" t="Include">
+                <e p="Prefabs" t="Include" />
+                <e p="Scripts" t="Include">
+                  <e p="vThrowCollectable.cs" t="Include" />
+                  <e p="vThrowManager.cs" t="Include" />
+                  <e p="vThrowUI.cs" t="Include" />
+                </e>
+                <e p="UI" t="Include" />
+              </e>
+              <e p="Weapon" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vCreateShooterWeaponEditor.cs" t="Include" />
+                </e>
+                <e p="Resources" t="Include" />
+                <e p="vAmmoDisplay.cs" t="Include" />
+                <e p="vAmmoDisplayImage.cs" t="Include" />
+                <e p="vAmmoStandalone.cs" t="Include" />
+                <e p="vBulletLifeSettings.cs" t="Include" />
+                <e p="vCollectShooterMeleeControl.cs" t="Include" />
+                <e p="vDrawHideShooterWeapons.cs" t="Include" />
+                <e p="vLaserSight.cs" t="Include" />
+                <e p="vProjectileControl.cs" t="Include" />
+                <e p="vShooterEquipment.cs" t="Include" />
+                <e p="vShooterWeapon.cs" t="Include" />
+                <e p="vShooterWeaponBase.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Materials" t="Include" />
+        <e p="Meshes" t="Include">
+          <e p="Materials" t="Include" />
+        </e>
+        <e p="Particles" t="Include" />
+        <e p="Prefab_Peices" t="Include" />
+        <e p="Scenes" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Bocka.cs" t="Include" />
+          <e p="Chest.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="ItemEvents.cs" t="Include" />
+        </e>
+        <e p="ShapesFX_Pack" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AssetPostImportProcess_Shapes.cs" t="Include" />
+            <e p="ShapeFxPackUI.cs" t="Include" />
+            <e p="Welcome.cs" t="Include" />
+          </e>
+          <e p="Geometries" t="Include" />
+          <e p="Materials" t="Include">
+            <e p="Materials_Dynamic" t="Include" />
+            <e p="Materials_Shapes_HiRes" t="Include">
+              <e p="Cube" t="Include" />
+              <e p="Dodecahedron" t="Include" />
+              <e p="Icosahedron" t="Include">
+                <e p="Hex" t="Include" />
+              </e>
+              <e p="Octahedron" t="Include">
+                <e p="Hex" t="Include" />
+              </e>
+              <e p="Sphere" t="Include" />
+              <e p="Torus" t="Include">
+                <e p="Hex" t="Include" />
+              </e>
+            </e>
+            <e p="Materials_Shapes_Lowres" t="Include">
+              <e p="Cube" t="Include" />
+              <e p="Icosahedron" t="Include" />
+              <e p="Octahedron" t="Include" />
+              <e p="Sphere" t="Include" />
+              <e p="Torus" t="Include">
+                <e p="Hex" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Cube" t="Include" />
+            <e p="Dodecahedron" t="Include" />
+            <e p="Icosahedron" t="Include" />
+            <e p="Octahedron" t="Include" />
+            <e p="Sphere" t="Include" />
+            <e p="Torus" t="Include" />
+          </e>
+          <e p="Resources" t="Include" />
+          <e p="Scene" t="Include" />
+          <e p="Script" t="Include">
+            <e p="ExampleTarget.cs" t="Include" />
+            <e p="Rotator.cs" t="Include" />
+            <e p="SC_EffectControl.cs" t="Include" />
+            <e p="ShowCase.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="Shapes_Shader_ST.shader" t="Include" />
+          </e>
+          <e p="Tex" t="Include">
+            <e p="Mask" t="Include" />
+            <e p="MatCap" t="Include" />
+            <e p="Outlines" t="Include" />
+          </e>
+        </e>
+        <e p="Suriyun" t="Include">
+          <e p="Animations" t="Include">
+            <e p="Camera&amp;light_animation" t="Include" />
+            <e p="Materials" t="Include" />
+          </e>
+          <e p="Emotions" t="Include" />
+          <e p="Kazuko" t="Include">
+            <e p="FBX" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="Kazuko" t="Include">
+                <e p="Base_character" t="Include" />
+                <e p="Bikini" t="Include" />
+              </e>
+            </e>
+            <e p="Prefab" t="Include" />
+            <e p="Texture" t="Include">
+              <e p="Kazuko" t="Include">
+                <e p="Base_character" t="Include" />
+                <e p="Bikini" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Riko" t="Include">
+            <e p="FBX" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="Riko" t="Include">
+                <e p="Base_character" t="Include" />
+                <e p="Bikini" t="Include" />
+              </e>
+            </e>
+            <e p="Prefab" t="Include" />
+            <e p="Texture" t="Include">
+              <e p="Riko" t="Include">
+                <e p="Base_character" t="Include" />
+                <e p="Bikini" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AnimatorController.cs" t="Include" />
+            <e p="Swapper.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include" />
+          <e p="UnityChanShader" t="Include">
+            <e p="Shader" t="Include">
+              <e p="CharaMain.cginc" t="Include" />
+              <e p="CharaOutline.cginc" t="Include" />
+              <e p="CharaSkin.cginc" t="Include" />
+              <e p="readme.txt" t="Include" />
+              <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eye.shader" t="Include" />
+              <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+              <e p="Unitychan_chara_fuku.shader" t="Include" />
+              <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+              <e p="Unitychan_chara_hada.shader" t="Include" />
+              <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+              <e p="Unitychan_chara_hair.shader" t="Include" />
+              <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Textures" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\korki\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_4f.1645100736.00" t="ExcludeRecursive" />
+  </component>
+</project>

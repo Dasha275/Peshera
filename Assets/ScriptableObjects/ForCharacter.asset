@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e5eee5e2af37e41b4feadd65a6eed5, type: 3}
+  m_Name: ForCharacter
+  m_EditorClassIdentifier: 
+  run: {fileID: 8300000, guid: b1f7221c3cc6f8e4bbb605eaff123f6b, type: 3}
+  walk: {fileID: 8300000, guid: 6f7a2040c6347fa488ee734cd1d96cb0, type: 3}
+  walk1: {fileID: 8300000, guid: d155696b2b8bc144c9d77fa04b7013ca, type: 3}
+  QuitWalk: {fileID: 8300000, guid: 86f6e5789aaa7224cbd32194b4f0e041, type: 3}
+  vorchanie: {fileID: 8300000, guid: 56470f722e9e866448db892e405e3626, type: 3}
+  Jump: {fileID: 8300000, guid: a368ecc34fcbd424ba873169dcdd436d, type: 3}
+  otdishka: {fileID: 8300000, guid: 6fbca365112cafc4bb7b5c6c83801981, type: 3}
+  fastRun: {fileID: 8300000, guid: 6e9a465be8b0a8b40863cb49ac87c93c, type: 3}
